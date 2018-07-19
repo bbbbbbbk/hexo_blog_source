@@ -8,7 +8,7 @@ subtitle: Jackie's blog
 description:
 keywords:
 author: Jackie Bao
-language: Chinese
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -73,8 +73,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+#next_theme_configurations
+theme: next
+social:
+        GitHub: https://github.com/bbbbbbbk
+        Weibo: https://weibo.com/277225193
+avatar: https://avatars1.githubusercontent.com/u/10141599
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
