@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -56,7 +56,12 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  旧文搬运: old_archives
 tag_map:
+  php: php
+  windows: windows
+  linux: linux
+  旧文搬运: old_archives
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
