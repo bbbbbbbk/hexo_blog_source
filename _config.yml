@@ -87,5 +87,5 @@ avatar: https://avatars1.githubusercontent.com/u/10141599
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:bbbbbbbk/bbbbbbbk.github.io.git
+  repository: https://github.com/bbbbbbbk/bbbbbbbk.github.io.git
   branch: master
